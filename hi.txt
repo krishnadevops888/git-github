@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hi these are from master changes
-=======
-hi some changes from secondbranch
->>>>>>> secondbranch
+some changes made in master branch
