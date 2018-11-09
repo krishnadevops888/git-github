@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 jfjfjf
+=======
+jfjjf
+yes
+>>>>>>> master
