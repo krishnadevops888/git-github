@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 this is first text file in first branch 
 yes
+=======
+this is first text file in first branch
+yes
+>>>>>>> 89cbd1cdbc3b97bb528b77647a68ee85c8ca3f8b
